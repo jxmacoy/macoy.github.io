@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+    font-family: sans-serif;
+}
+#header{
+    background-image: url("pattern.jpeg");
+    margin: 0 auto;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 150px;
+    margin-top: 70px;
+}
+
+span{
+    color: blue;
+    font-weight: bold;
+}
+.contents img{
+    width: 500px;
+    height: 500px;
+}
+.container{
+    
+    margin: 0px auto;
+    color: black;
+}
+.container h2{
+    font-size: 50px;
+}
+.content1 h2{
+    background-color: khaki;
+    color: white;
+    
+}
+.content2 h2{
+    background-color: #F08080;
+    color: white;
+}
+.content3 h2{
+    color: white;
+    background-color: #87CEEB ;
+}
+
